@@ -1,0 +1,31 @@
+;TRANSLATE B=A
+
+
+.MODEL SMALL   ;DEFINES THE SIZE OF THE MEMORY MODEL
+.STACK 100H    ;DEFINES THE SIZE OF STACK
+.DATA          ;WHERE ALL VARIABLES WILL BE DECLARED  
+
+    A DB 2H
+    B DB ?
+
+.CODE          ;WHERE ALL FUNCTIONS AND PROCEDURES DECLARED
+
+    MAIN PROC
+        
+       MOV AX, @DATA
+       MOV DS, AX 
+       
+       MOV AL, A
+       MOV B, AL
+       
+       MOV AH, 4CH
+       INT 21H      ;RETURNS CONTROL TO THE OS AFTER EXECUTION
+    
+    MAIN ENDP   ;ENDS PROCEDURE
+    
+                
+END MAIN        ;PROGRAM TERMINATION
+    
+    
+
+    

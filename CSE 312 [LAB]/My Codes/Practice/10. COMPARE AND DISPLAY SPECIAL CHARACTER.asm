@@ -1,0 +1,71 @@
+.MODEL SMALL
+.STACK 100H
+.DATA
+.CODE
+
+    MAIN PROC
+ 
+MOV CX,61H
+
+CMP CX,'a'    ;COMPARE CX=61H WITH a CHARACTER
+
+JE a          ;MATCHES SO JUMP
+
+MOV AL,'*'    ;NOT EXECUTED
+MOV AH,0EH
+INT 10H
+
+a:
+MOV AL,'+'   ;DISPLAY "+" SIGN
+MOV AH,0EH
+INT 10H
+
+     MAIN ENDP
+
+END MAIN
+
+    
+ 
+   MAIN ENDP
+
+END MAIN
+
+
+
+*******************************************************************************
+
+.MODEL SMALL
+.STACK 100H
+.DATA
+.CODE
+
+    MAIN PROC
+ 
+MOV CX,5H
+MOV BX,6H
+
+CMP CX,BX
+
+JE a          ;IN ASCII 5H,6H HAS SPECIAL CHARACTER, IT DOESNT MATCHES WITH a WHICH IS IN 97H
+
+MOV AL,'*'    ;DISPLAYS SPECIAL CHARACTER
+MOV AH,0EH
+INT 10H
+
+a:            ;LANDING,NOTHING
+
+     MAIN ENDP
+
+END MAIN
+
+
+
+
+
+
+
+    
+ 
+MAIN ENDP
+
+END MAIN

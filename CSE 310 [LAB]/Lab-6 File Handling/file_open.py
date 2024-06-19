@@ -1,0 +1,5 @@
+file1 = open("input.txt")
+file2 = open("../input1.txt")
+file2 = open("../temp/input2.txt")
+file2 = open("temp2/input3.txt")
+file2 = open("E:/input5.txt")

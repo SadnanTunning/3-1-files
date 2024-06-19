@@ -1,0 +1,21 @@
+Template Report Format.
+
+Please note that there are some errors in the document.
+
+
+You can follow this format by resolving following errors
+
+In chapter 1
+1.2 Intended Audience (customer, developer) for your application. You should elaborate the nature of your application and which customers will be the target user and what type of developers can create it. 
+
+Do not generalize, be specific in your answer like intended customers/target user will be patient or traveler or any user.
+
+Chapter 2 
+  2.1.1 Identifying Stakeholders
+
+Summarize this paragraph by answering the questions and do not show the questions.  
+
+
+Similarly in 2.1.2 
+
+Asking the First Questions Or in other chapters and  sections of the report, please be specific what you actually would have done to do the project rather than general words mentioned in the report format.

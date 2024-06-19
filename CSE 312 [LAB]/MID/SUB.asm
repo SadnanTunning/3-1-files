@@ -1,0 +1,23 @@
+.MODEL SMALL
+.STACK 100H
+.DATA
+
+A DW 1106
+B DW 2010
+
+.CODE
+
+MAIN PROC
+    MOV AX,@DATA
+    MOV DS,AX
+    
+    MOV AX,A
+    MOV BX,B
+    SUB AX,BX
+    
+    MOV AH,4CH
+    INT 21H
+    
+MAIN ENDP
+
+END MAIN

@@ -1,0 +1,31 @@
+.MODEL SMALL   ;DEFINES THE SIZE OF THE MEMORY MODEL
+.STACK 100H    ;DEFINES THE SIZE OF STACK
+.DATA          ;WHERE ALL VARIABLES WILL BE DECLARED
+.CODE          ;WHERE ALL FUNCTIONS AND PROCEDURES DECLARED
+
+    MAIN PROC
+       
+       ;------NEG-------
+       ;SYNTAX: NEG OPERAND
+       ;OPERAND -> REG OR MEM
+       
+       MOV AX, 0101B
+       NEG AX     
+       
+       MOV [1101], 4H 
+       MOV CL, [1101]
+       NEG [1101]
+       MOV BL, [1101]
+
+       
+       MOV AH, 4CH
+       INT 21H      ;RETURNS CONTROL TO THE OS AFTER EXECUTION
+    
+    MAIN ENDP   ;ENDS PROCEDURE
+    
+                
+END MAIN        ;PROGRAM TERMINATION
+    
+    
+
+    

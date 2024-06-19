@@ -1,0 +1,3 @@
+1. Changed Views.py in  pollmodule
+2. New file urls.py in pollmodule and add path for views.index
+3.Include urls.py of pollmodule folder to project's url file

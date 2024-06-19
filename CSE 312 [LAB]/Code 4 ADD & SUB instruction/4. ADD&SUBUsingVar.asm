@@ -1,0 +1,42 @@
+;ADDING CONTENTS FROM VARIABLE AND STORING IT IN ANOTHER VARIABLE
+
+.MODEL SMALL   ;DEFINES THE SIZE OF THE MEMORY MODEL
+.STACK 100H    ;DEFINES THE SIZE OF STACK
+.DATA          ;WHERE ALL VARIABLES WILL BE DECLARED   
+
+    A DB 2
+    B DB 5
+    SUM DB ?
+    DIF DB ?
+    
+.CODE          ;WHERE ALL FUNCTIONS AND PROCEDURES DECLARED
+
+    MAIN PROC
+       
+       MOV AX, @DATA
+       MOV DS, AX       ;IMPORTING ALL DATA TO CODE SEGMENT
+       
+       MOV AL, A 
+       ADD AL, B        ;REG,VAR-VAR IS THE SRC
+       MOV SUM, AL      ;SUM=A+B   
+       
+       MOV BL,A          
+       ADD B, BL        ;REG,VAR- VAR IS THE DEST
+       
+       MOV BL, A
+       MOV CL, B
+       SUB CL, BL
+       MOV DIF, CL 
+       
+       
+       MOV AH, 4CH
+       INT 21H      ;RETURNS CONTROL TO THE OS AFTER EXECUTION
+    
+    MAIN ENDP   ;ENDS PROCEDURE
+    
+                
+END MAIN        ;PROGRAM TERMINATION
+    
+    
+
+    

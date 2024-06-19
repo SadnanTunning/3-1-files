@@ -1,0 +1,39 @@
+Cisco packet tracer & its introduction.(Bangla) 
+https://www.youtube.com/watch?v=e_cY2Kv9h4U&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j
+
+Watch this video and download the Packet tracer software.
+https://www.youtube.com/watch?v=e_cY2Kv9h4U&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=1
+
+Then watch these videos and implement these topologies.
+Bus https://www.youtube.com/watch?v=B4f-zMPv5G8&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=3
+Star https://www.youtube.com/watch?v=oxkGRhmvZQo&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=4
+Ring https://www.youtube.com/watch?v=9A7PuwuGhos&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=5
+Mesh https://www.youtube.com/watch?v=cNl13x9zIWE&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=6
+Hybrid https://www.youtube.com/watch?v=DcQTVQEu-ng&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=7
+
+
+
+Number of network and host ip in every class\what is subnet mask (watch and remember)
+https://www.youtube.com/watch?v=95qGLkxPqV0&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=2
+
+Basics of subnetting (watch and remember)
+
+https://www.youtube.com/watch?v=HoDZ6fxttmg&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g&index=3
+
+How to assign ip address and subnet mask in a network (implement in packet tracer and submit)
+
+https://www.youtube.com/watch?v=_Nhw5Qw0rgc&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=7
+
+Router configuration using cisco packet tracer  (implement in packet tracer and submit)
+
+https://www.youtube.com/watch?v=Xj2AhCF_asg&list=PLMW5djzR9cKMTcsk5E2vnXpDnOIjXRd_j&index=8
+
+
+
+
+Important for lab final and viva
+https://www.youtube.com/watch?v=HoDZ6fxttmg&t=1275s
+
+
+
+

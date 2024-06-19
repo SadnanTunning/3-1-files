@@ -1,0 +1,8 @@
+1.django-admin startapp users
+2. register this app to settings.py in project....installed[...]
+3. set the urls.py in users app (follow step 5 for views)
+4.include users urls in project urls.py
+5. Setup views and templates i.e html files
+6. Setup Models and Manager files
+7. Change views to receive POST parameters
+8. Create User from register page

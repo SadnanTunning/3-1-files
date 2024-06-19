@@ -1,0 +1,15 @@
+MODEL SMALL
+STACK 100H
+DATA
+
+CODE
+    
+   MAIN PROC
+   
+    MOV AX,012H
+    MOV BX,123H
+    
+   MAIN ENDP
+   
+END MAIN
+    

@@ -1,0 +1,107 @@
+Basics of IP address: Watch this channel to learn the basics of IP.
+https://www.youtube.com/watch?v=OEC0PcOgyZw&list=PLMW5djzR9cKPDaY5f30lC4VgqL9nRQG6g
+
+OSI model videos:
+https://www.youtube.com/watch?v=Ilk7UXzV_Qc&t=177s
+https://www.youtube.com/watch?v=vv4y_uOneC0&t=379s
+
+Topology:
+
+https://www.youtube.com/watch?v=ijWR0r-NHJw&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=5
+
+OSI model
+https://www.youtube.com/watch?v=V8wiJhRwykU
+
+OSI vs TCP/IP
+https://www.youtube.com/watch?v=sGWxt4o4UPk&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=6
+
+
+
+Watch these before the next class. (Part-1) Physical Layer
+
+https://www.youtube.com/watch?v=PIp3bAWSzik&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=7
+
+(Part-1.1) Digital Transmission
+
+https://www.youtube.com/watch?v=CJe_LQxFTtE&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=8
+
+(Part-1.2) Line Coding
+
+https://www.youtube.com/watch?v=2OJXnk1QjJk&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=9
+
+(Part-1.3) NRZ-L and NRZ-I
+
+https://www.youtube.com/watch?v=ts_iiEoLV7I&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=10
+
+(Part-1.4) Manchester and Differential Manchester
+
+https://www.youtube.com/watch?v=sGDynGq6Vy0&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=11
+
+
+Network Performance : Bandwidth, throughput, latency/delay
+
+https://www.youtube.com/watch?v=5AVuUgEJu1E
+
+
+after mid:
+
+
+MultiLine Transmission (MLT-3)
+
+https://www.youtube.com/watch?v=UnArT-HFsk0&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=16
+
+Block Coding 
+
+https://www.youtube.com/watch?v=fbjXpFdlBRU&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=17
+
+Block Coding (4B/5B)
+
+https://www.youtube.com/watch?v=3Cs2BR-wbDs&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=18
+
+Scrambling (B8ZS) 
+
+https://www.youtube.com/watch?v=tZSWjlmcss4&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=19
+
+ Scrambling (HDB3)
+
+https://www.youtube.com/watch?v=MhLe3k4cYz4&list=PLncy2sD7w4YpbMkd6cF0kVH8SUM-VrpeQ&index=20
+
+
+Data and Signals
+
+https://www.youtube.com/watch?v=KsTGMBGXRpQ&list=PLm5n-f6IsfBsYSf3y_9DPxJ9fBRUygc8Y&index=2
+
+TRANSMISSION IMPAIRMENT | ATTENUATION, DISTORTION, NOISE
+
+https://www.youtube.com/watch?v=fd441ISySck&list=PLRUuLaEEgn1tutgi2MOyEYU7rc66GWqa3&index=13
+
+
+Cyclic Redundancy Check (CRC) - Part 1
+https://www.youtube.com/watch?v=A9g6rTMblz4&t=449s
+
+Cyclic Redundancy Check (CRC) - Part 2
+
+https://www.youtube.com/watch?v=wQGwfBS3gpk&t=215s
+
+How do CRCs work? (Special Lecture, only for geeks)
+https://www.youtube.com/watch?v=izG7qT0EpBw
+
+
+hamming code 
+https://www.youtube.com/watch?v=1A_NcXxdoCc
+
+https://www.youtube.com/watch?v=wbH2VxzmoZk
+
+detalis
+https://www.geeksforgeeks.org/hamming-code-in-computer-network/
+
+Switching Techniques
+https://www.youtube.com/watch?v=-HlJ4psu5aU&t=629s
+
+Frequency Division Multiplexing, Wavelength Division Multiplexing
+
+https://www.youtube.com/watch?v=efyEXWhnki0&list=PL8S7lt_YQwFIGwkf6078jNpUYjiKthWuP&index=15
+
+Network Performance
+
+https://www.youtube.com/watch?v=5AVuUgEJu1E
